@@ -1,0 +1,15 @@
+- TileSystem world to map pos
+
+- Change char collision ( 4 points collision check )
+
+- Create enemy sprite sheet
+- Create enemy system
+
+- Level class
+
+? Pathfinding
+? enemy AI
+
+[ -- Bugs -- ]
+
+- Animation is started and playGroup changed

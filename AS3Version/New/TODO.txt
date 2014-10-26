@@ -1,0 +1,14 @@
+## DOING ##
+
+- Enemies
+-> AI
+
+
+## TODO ##
+
+- Pickups
+-> Energizers
+-> Fruit
+
+- Character
+\-> OPtimize collision
